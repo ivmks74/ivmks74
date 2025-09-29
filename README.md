@@ -38,7 +38,6 @@ Check my project repositories: [GitHub Projects](https://github.com/ivmks74)
 
 - **Cybersecurity Domains:** SOC, DFIR, IoT security, penetration testing, vulnerability analysis.  
 - **Tools:** Kali Linux, Wireshark, Nmap, Metasploit, Packet Tracer, LetsDefend.  
-- **Programming:** Python, C (for scripts and automation).  
 - **Protocols & Networking:** TCP/IP, UDP, HTTP/S, OSI layers, service enumeration.  
 - **Virtualization & Labs:** VMware, VirtualBox, Packer, Vagrant.  
 

@@ -46,7 +46,7 @@ Check my project repositories: [GitHub Projects](https://github.com/ivmks74)
 ## 🌟 My Goals
 
 - **Short-term:** Secure a **SOC Analyst L1 internship or full-time role**.  
-- **Mid-term:** Master **IoT security, DFIR, and advanced SOC operations**.  
+- **Mid-term:** Master **Blue Team Operations**.  
 - **Long-term:** Become a **highly skilled cybersecurity professional** specializing in defensive security, incident response, and threat hunting.  
 
 ---
